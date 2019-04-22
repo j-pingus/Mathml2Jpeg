@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:pmml2svg="https://sourceforge.net/projects/pmml2svg/"
+     xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     width="301.9601307312912px"
+     height="218.58956px"
+     viewBox="0 0 301.9601307312912 218.58956">
+   <metadata>
+      <pmml2svg:baseline-shift>106.96778</pmml2svg:baseline-shift>
+   </metadata>
+   <g stroke="none"
+      fill="#000000"
+      text-rendering="optimizeLegibility"
+      font-family="STIXGeneral,STIXSizeOneSym">
+      <g xmlns:doc="http://nwalsh.com/xsl/documentation/1.0"
+         style="font-family: STIXGeneral,STIXSizeOneSym; fill: ; background-color: transparent; ">
+         <g style="font-family: STIXGeneral,STIXSizeOneSym; fill: ; background-color: transparent; ">
+            <text style="font-family: STIXGeneral, STIXSizeOneSym; fill: black; background-color: transparent; "
+                  x="10"
+                  y="111.62178"
+                  font-size="50">1</text>
+            <text x="46.1111"
+                  y="111.62178000000002"
+                  font-size="50"
+                  style="font-family: STIXGeneral, STIXSizeOneSym; fill: black; background-color: transparent; ">+</text>
+            <g style="font-family: STIXSizeOneSym; fill: black; background-color: transparent; ">
+               <text x="91.4722" y="40.56446096202532" font-size="44.94773670886076">⎛</text>
+               <text x="91.4722" y="174.05923898734179" font-size="44.94773670886076">⎝</text>
+               <text x="91.4722" y="129.56097964556963" font-size="44.94773670886076">⎜</text>
+               <text x="91.4722" y="85.06272030379748" font-size="44.94773670886076">⎜</text>
+            </g>
+            <g style="font-family: STIXSizeOneSym; fill: black; background-color: transparent; ">
+               <text x="109.09438957816377"
+                     y="92.53802833777779"
+                     font-size="78.90824888888889">⌠</text>
+               <text x="109.09438957816377"
+                     y="182.88797331555557"
+                     font-size="78.90824888888889">⌡</text>
+            </g>
+            <text style="font-family: STIXGeneral, STIXSizeOneSym; font-style: italic; fill: black; background-color: transparent; "
+                  x="122.45273203231224"
+                  y="208.19906"
+                  font-size="35.5">a</text>
+            <text style="font-family: STIXGeneral, STIXSizeOneSym; fill: black; background-color: transparent; "
+                  x="156.92990781979407"
+                  y="93.77178"
+                  font-size="50">1</text>
+            <text style="font-family: STIXGeneral, STIXSizeOneSym; fill: black; background-color: transparent; "
+                  x="156.92990781979407"
+                  y="140.69678000000002"
+                  font-size="50">2</text>
+            <line x1="153.59657448646072"
+                  y1="98.77178"
+                  x2="185.26324115312738"
+                  y2="98.77178"
+                  fill="none"
+                  stroke="black"
+                  stroke-width="3.125"/>
+            <text x="196.37434115312738"
+                  y="111.62178000000002"
+                  font-size="50"
+                  style="font-family: STIXGeneral, STIXSizeOneSym; fill: black; background-color: transparent; ">+</text>
+            <text style="font-family: STIXGeneral, STIXSizeOneSym; fill: black; background-color: transparent; "
+                  x="249.1616911531274"
+                  y="33.998000000000005"
+                  font-size="35.5">2</text>
+            <text style="font-family: STIXGeneral, STIXSizeOneSym; fill: black; background-color: transparent; "
+                  x="251.7354411531274"
+                  y="64.16158"
+                  font-size="25.205">3</text>
+            <text style="font-family: STIXGeneral, STIXSizeOneSym; fill: black; background-color: transparent; "
+                  x="251.7354411531274"
+                  y="93.77177999999999"
+                  font-size="25.205">4</text>
+            <line x1="248.40210781979405"
+                  y1="69.51445000000001"
+                  x2="267.67127448646073"
+                  y2="69.51445000000001"
+                  fill="none"
+                  stroke="black"
+                  stroke-width="2.21875"/>
+            <line x1="245.06877448646074"
+                  y1="38.998000000000005"
+                  x2="271.00460781979405"
+                  y2="38.998000000000005"
+                  fill="none"
+                  stroke="black"
+                  stroke-width="3.125"/>
+            <text style="font-family: STIXGeneral, STIXSizeOneSym; fill: black; background-color: transparent; "
+                  x="245.5366911531274"
+                  y="140.69678000000002"
+                  font-size="50">1</text>
+            <line x1="241.7354411531274"
+                  y1="98.77178"
+                  x2="274.3379411531274"
+                  y2="98.77178"
+                  fill="none"
+                  stroke="black"
+                  stroke-width="3.125"/>
+            <g style="font-family: STIXSizeOneSym; fill: black; background-color: transparent; ">
+               <text x="274.3379411531274"
+                     y="40.56446096202532"
+                     font-size="44.94773670886076">⎞</text>
+               <text x="274.3379411531274"
+                     y="174.05923898734179"
+                     font-size="44.94773670886076">⎠</text>
+               <text x="274.3379411531274"
+                     y="129.56097964556963"
+                     font-size="44.94773670886076">⎟</text>
+               <text x="274.3379411531274"
+                     y="85.06272030379748"
+                     font-size="44.94773670886076">⎟</text>
+            </g>
+         </g>
+      </g>
+   </g>
+</svg>
