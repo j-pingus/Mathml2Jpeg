@@ -2133,7 +2133,6 @@ Software Foundation, 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
   <xsl:template name="getStretchyEmbellished">
     <xsl:param name="nodes"/>
     <xsl:param name="mode" select="'v'"/>
-
     <xsl:if test="$nodes">
       <xsl:if test="func:isEmbellished($nodes[1], $mode)">
 	<xsl:copy-of select="$nodes[1]"/>

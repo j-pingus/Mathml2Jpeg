@@ -23,6 +23,16 @@
             <artifactId>batik-codec</artifactId>
             <version>1.11</version>
         </dependency>
+        <dependency>
+            <groupId>de.rototor.jeuclid</groupId>
+            <artifactId>jeuclid-core</artifactId>
+            <version>3.1.14</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-ext</artifactId>
+            <version>1.11</version>
+        </dependency>
     </dependencies>
 
 </project>
